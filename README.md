@@ -3,8 +3,11 @@
 ### 👾 Sobre mim
 
 Estudante de Desenvolvimento de Sistemas na ETEC Jardim Ângela
+
 Focada em aprender HTML, CSS, JavaScript, PHP e MySQL
+
 Objetivo: me tornar uma desenvolvedora Fullstack
+
 Atualmente criando projetos práticos para evoluir em lógica de programação e estrutura de dados
 
 ---
@@ -18,13 +21,6 @@ Aqui estão as tecnologias que venho estudando e utilizando em meus projetos:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
-
----
-
-### 📂 Meus Principais Projetos
-| Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| [Nome do Projeto 1](link-para-o-repositorio) | Sistema simples feito com HTML, CSS e JavaScript | HTML, CSS e JavaScript |
 
 ---
 
