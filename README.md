@@ -1,6 +1,6 @@
 # Olá, eu sou a Bianca! 👋
 
-### Sobre mim
+### 👾 Sobre mim
 
 Estudante de Desenvolvimento de Sistemas na ETEC Jardim Ângela
 Focada em aprender HTML, CSS, JavaScript, PHP e MySQL
